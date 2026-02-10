@@ -2,7 +2,7 @@
 
 A Telegram bot powered by **Dreamina AI** — run on the edge, no servers to manage.
 
-[@see_dance_bot](https://t.me/see_dance_bot?start=gh-1)
+[@dreamina_ai_bot](https://t.me/dreamina_ai_bot?start=gh-1)
 
 - **Serverless** on [Cloudflare Workers](https://workers.cloudflare.com/)
 - **Database** with [D1](https://developers.cloudflare.com/d1/)
